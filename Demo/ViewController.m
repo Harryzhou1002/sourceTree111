@@ -19,8 +19,18 @@
     // Do any additional setup after loading the view, typically from a nib.
 
     self.view.backgroundColor = [UIColor yellowColor];
+
     
     //试试新的去掉之前的
+
+    //222222222
+    
+    //576776767775257125321712
+    
+    //shiahasshsadhkkhask
+    
+    //以咿咿呀呀
+
 
 }
 
